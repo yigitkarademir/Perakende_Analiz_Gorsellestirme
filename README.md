@@ -34,4 +34,5 @@ Python: Pandas, Numpy
 
 Power BI: Power Query ve Dashboard Tasarımı
 
-Veri Kaynağı: Kaggle Retail Transaction Dataset
+
+Veri Kaynağı: [Kaggle Retail Transaction Dataset](https://www.kaggle.com/datasets/fahadrehman07/retail-transaction-dataset)
